@@ -57,11 +57,10 @@ Permite que você acompanhe suas receitas, despesas, metas, clientes, notas e po
 
 ## 📦 Breve Visualização
 
-![Captura de Tela (25)](Captura de Tela (70).png)
-![Captura de Tela (29)](Captura de Tela (71).png)
-![Captura de Tela (30)](Captura de Tela (73).png)
-![Captura de Tela (33)](Captura de Tela (76).png)
-
+![Captura de Tela 70](https://github.com/yury-miguel/Leia-Me_Fintech/blob/main/Captura%20de%20Tela%20(70).png)
+![Captura de Tela 71](https://github.com/yury-miguel/Leia-Me_Fintech/blob/main/Captura%20de%20Tela%20(71).png)
+![Captura de Tela 73](https://github.com/yury-miguel/Leia-Me_Fintech/blob/main/Captura%20de%20Tela%20(73).png)
+![Captura de Tela 76](https://github.com/yury-miguel/Leia-Me_Fintech/blob/main/Captura%20de%20Tela%20(76).png)
 
 ## 📧 Contato
 
