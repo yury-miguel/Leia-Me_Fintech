@@ -57,12 +57,10 @@ Permite que você acompanhe suas receitas, despesas, metas, clientes, notas e po
 
 ## 📦 Breve Visualização
 
-![Captura de Tela (25)](https://github.com/user-attachments/assets/94470f29-141d-41e2-b41d-2bd90f6c8151)
-![Captura de Tela (29)](https://github.com/user-attachments/assets/ed0db2b6-a3de-49ca-bac5-a510d30d1846)
-![Captura de Tela (30)](https://github.com/user-attachments/assets/6209cb41-4c36-4b61-a3b7-66d17d89a454)
-![Captura de Tela (33)](https://github.com/user-attachments/assets/7430c921-8e9e-43b4-a32f-cb4da3e4110d)
-![Captura de Tela (32)](https://github.com/user-attachments/assets/f9b954bc-bdf4-4a2c-9787-fe2c43a8cf4a)
-![Captura de Tela (31)](https://github.com/user-attachments/assets/daeaee57-9897-42a4-951a-a0a6971a71d4)
+![Captura de Tela (25)](Captura de Tela (70).png)
+![Captura de Tela (29)](Captura de Tela (71).png)
+![Captura de Tela (30)](Captura de Tela (73).png)
+![Captura de Tela (33)](Captura de Tela (76).png)
 
 
 ## 📧 Contato
